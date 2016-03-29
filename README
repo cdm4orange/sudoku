@@ -1,0 +1,18 @@
+# sudoku 
+# C++ program by Carl Meacham
+# committed to github 3/29/2016
+#
+# To Complile: 
+# $ make
+# 
+# To run:
+# $ sudoku
+#
+# Execution:
+# This program solves a sudoku puzzle hard coded into main()
+#
+# Parameters:
+# none
+#
+# Documentation:
+# see puzzleUtils.h
